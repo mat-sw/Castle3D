@@ -1,0 +1,6 @@
+﻿  lodepng.cpp
+  main_file.cpp
+D:\DOWNLOAD\Castle_OpenGL\model.h(22,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'assimp/Importer.hpp': No such file or directory
+  model.cpp
+D:\DOWNLOAD\Castle_OpenGL\Model.h(22,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'assimp/Importer.hpp': No such file or directory
+  shaderprogram.cpp

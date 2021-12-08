@@ -1,0 +1,7 @@
+﻿  lodepng.cpp
+  main_file.cpp
+D:\Mati\materialy na studia\4 semestr\Grafika\laby\projekt\Castel_OpenGL\main_file.cpp(226,39): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+D:\Mati\materialy na studia\4 semestr\Grafika\laby\projekt\Castel_OpenGL\main_file.cpp(227,39): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  shaderprogram.cpp
+  Generowanie kodu...
+  pl_szkielet_08_win.vcxproj -> D:\Mati\materialy na studia\4 semestr\Grafika\laby\projekt\Castel_OpenGL\Debug\pl_szkielet_08_win.exe
